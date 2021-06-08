@@ -6,6 +6,8 @@ Date: 2021/01/29
 
 int main(void)  {
 printf("Computer Science \n");
+printf("Audra Clark \n");
+printf("Civil Engineering \n");
 return 0;
 }
 
